@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Food-Order-website/static/css/main.1543cc30.css",
+    "main.js": "/Food-Order-website/static/js/main.b9b51b8f.js",
+    "static/media/logo.jpg": "/Food-Order-website/static/media/logo.02ee32587efd2c20c107.jpg",
+    "index.html": "/Food-Order-website/index.html",
+    "main.1543cc30.css.map": "/Food-Order-website/static/css/main.1543cc30.css.map",
+    "main.b9b51b8f.js.map": "/Food-Order-website/static/js/main.b9b51b8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1543cc30.css",
+    "static/js/main.b9b51b8f.js"
+  ]
+}
